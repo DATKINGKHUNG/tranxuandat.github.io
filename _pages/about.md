@@ -6,10 +6,10 @@ description: Computer Vision Researcher
 
 profile:
   align: right
-  image: pic.jpg
+  image: image.png
   image_circular: true # crops the image to make it circular
   address: #>
-    #<p>London, UK</p>
+    #<p>TP.HCM, VN</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
