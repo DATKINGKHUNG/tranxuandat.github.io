@@ -19,8 +19,8 @@ social: false  # includes social icons at the bottom of the page
 I am member of UIT
 Class: KHTN 2024 
 
-<a href="https://www.instagram.com/" target="_blank" style="margin-right: 15px"><i class="fa-brands fa-square-instagram"></i> Instagram</a>
+<a href="https://www.instagram.com/" target="_blank" style="margin-right: 15px"><i class="fab fa-square-instagram fa-lg"></i> Instagram</a>
 <a href="https://github.com/DATKINGKHUNG/tranxuandat.github.io" target="_blank" style="margin-right: 15px"><i class="fab fa-github fa-lg"></i> Github</a>
-<a href="https://www.facebook.com/BareReach" target="_blank" style="margin-right: 15px"><i class="fa-brands fa-facebook"></i> Facebook</a>
+<a href="https://www.facebook.com/BareReach" target="_blank" style="margin-right: 15px"><i class="fab fa-facebook fa-lg"></i> Facebook</a>
 <a href="24520008@gm.uit.edu.vn" style="margin-right: 15px"><i class="far fa-envelope-open fa-lg"></i> Gmail</a>
 
